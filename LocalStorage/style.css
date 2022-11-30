@@ -1,0 +1,12 @@
+.item{
+    position: relative;
+    margin-top: 25px;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
+.fa-xmark{
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}
